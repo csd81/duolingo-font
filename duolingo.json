@@ -1,0 +1,22 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"name": "duolingo",
+		"sections": [
+			{
+				"code": "body {\n  font-family: Verdana !important;\n}\n\n*, *::after, *::before {\n    font-family: Verdana !important;\n}",
+				"urls": [],
+				"urlPrefixes": [
+					"https://www.duolingo.com"
+				],
+				"domains": [],
+				"regexps": []
+			}
+		],
+		"id": 1
+	}
+]
