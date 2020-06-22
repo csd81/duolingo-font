@@ -8,7 +8,7 @@
 		"name": "duolingo",
 		"sections": [
 			{
-				"code": "body {\n  font-family: Verdana !important;\n}\n\n*, *::after, *::before {\n    font-family: Verdana !important;\n}",
+				"code": "body {\n  font-family: 'Iranian Sans' !important;\n}\n\n*, *::after, *::before {\n    font-family: 'Iranian Sans' !important;\n}",
 				"urls": [],
 				"urlPrefixes": [
 					"https://www.duolingo.com"
